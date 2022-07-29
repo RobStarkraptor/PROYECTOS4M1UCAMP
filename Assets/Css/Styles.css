@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@0,300;0,500;0,600;1,500&display=swap');
+
+
+.navbar {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, rgba(24, 24, 72, 1) 75%, rgba(24, 24, 72, 1) 100%);
+    color: #7890a8;
+    font-family: 'Zilla Slab', serif;
+    
+    margin: 0;
+}
+    
+.navbar-light .navbar-nav .nav-link {
+    color:  #7890a8;
+    font-family: 'Zilla Slab', serif;
+    text-align: right;   
+    font-size: larger;
+    
+}
+
+.navbar-light .navbar-brand {
+    color: #7890a8;
+    font-family: 'Zilla Slab', serif;
+    font-size: xx-large;    
+    
+}
+
+.jumbotron {
+    padding: 10rem 2rem;
+    box-shadow: none;
+    margin-bottom: 0;
+    font-family: 'Zilla Slab', serif;
+    color: white;
+    background: rgb(24, 24, 72);
+    background: linear-gradient(180deg, rgba(24, 24, 72, 1) 0%, rgba(24, 24, 72, 1) 25%, rgba(48, 72, 120, 1) 75%, rgba(48, 72, 120, 1) 100%);
+    margin: 0;
+    border: 0;
+}
+
+.mama{
+    margin: 0;
+    display: inline;
+    align-items: center;
+}
+.uno{
+    display: inline;
+    margin-right: 0.5rem;
+    margin-bottom: 1rem;
+}
+.dos{
+    float: right;
+    display: inline;
+    margin-bottom: 1rem;
+    
+}
+
+.display-4{    
+    font-weight: bold;
+    font-size: auto;
+}
+
+.jumbotron img{
+    border-style: hidden;
+    border-radius: 10%;
+    vertical-align: middle;
+    align-items: center;
+    box-shadow: #000000;
+    height: auto;
+    width: 80%;
+    padding: 0%;
+}
+
+.blog {
+    padding: 6rem 3rem;
+    border-style: hidden;
+    margin: 0;
+    text-align: center;
+    background: rgb(48, 72, 120);
+    background: linear-gradient(180deg, rgba(48, 72, 120, 1) 0%, rgba(48, 72, 120, 1) 25%, rgba(120, 144, 168, 1) 75%, rgba(120, 144, 168, 1) 100%);
+    font-family: 'Zilla Slab', serif;
+}
+
+.card{
+    align-items: center;
+    border: 0px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: transparent;
+}
+
+.card img{
+    border-style: hidden;
+    
+    vertical-align: middle;
+    
+    
+    height: 200px;
+    width: auto;
+    padding: 0%;
+
+}
+
+.card-body p{
+    font-family: 'Zilla Slab', serif;
+    font-size: large;
+    color: black;
+    font-weight: normal;
+}
+
+.card-body h2{
+    font-family: 'Zilla Slab', serif;
+    font-weight: bold;
+}
+
+
+.btn-secondary {
+    color: #000;
+    background-color: #f0a818;
+    border-color: #f0a818;;
+}
+
+.adicional {
+    border-style: hidden;
+    margin: 0;
+    background: rgb(120,144,168);
+    background: linear-gradient(180deg, rgba(120,144,168,1) 0%, rgba(120,144,168,1) 25%, rgba(255,255,255,1) 75%, rgba(255,255,255,1) 100%);
+    font-family: 'Zilla Slab', serif;
+    color: black;
+    padding: 5rem 1rem;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    line-height: 2rem;
+}
+
+.adicional h1{
+    padding-top: 7rem;
+}
+
+.lead{
+    padding-top: 2rem;
+    color:#181848;
+    font-size: 1.7rem;
+
+}
+
+.textual {
+    color: #181848;
+    text-decoration: underline;
+}
+
+.Logo{
+    width: 50px;
+    height: 50px;
+
+}
+
+.btn-twitter {
+    color: #fff;
+    background-color: #00acee;
+    border-color: #00acee;
+}
+
+.btn {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
